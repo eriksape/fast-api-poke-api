@@ -1,1 +1,51 @@
-{"data":{"pokemon_v2_berry":[{"id":23,"name":"qualot","growth_time":8,"max_harvest":5}, {"id":24,"name":"hondew","growth_time":8,"max_harvest":5}]}}
+{
+  "info": {
+    "_postman_id": "1f75ac20-bc24-42ad-ba77-4220af90cbc6",
+    "name": "pokeapi",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "get berries",
+      "id": "0406a8d3-4478-4c35-922e-0a0f075d6e14",
+      "request": {
+        "method": "GET",
+        "header": [
+
+        ],
+        "url": null
+      },
+      "response": [
+
+      ]
+    },
+    {
+      "name": "get berries filtered by name",
+      "id": "6ca164df-0387-4938-a8d9-060572f8afeb",
+      "request": {
+        "method": "GET",
+        "header": [
+
+        ],
+        "url": null
+      },
+      "response": [
+
+      ]
+    },
+    {
+      "name": "get berries with zip output",
+      "id": "8db9aa28-31d4-401f-98a8-0e6cb40f1626",
+      "request": {
+        "method": "GET",
+        "header": [
+
+        ],
+        "url": null
+      },
+      "response": [
+
+      ]
+    }
+  ]
+}
